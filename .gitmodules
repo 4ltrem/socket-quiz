@@ -1,2 +1,4 @@
-[submodule "./socket-io-client"]
+[submodule "socket-quiz-client"]
+	path = ./socket-io-client
 	url = https://github.com/4ltrem/socket-quiz-client.git
+
